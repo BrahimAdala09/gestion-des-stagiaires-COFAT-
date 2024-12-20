@@ -1,0 +1,13 @@
+.message {
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px 0;
+    font-family: Arial, sans-serif;
+    
+    font-size: 14px;
+}
+
+.message.error {
+    color: #ff0000;
+}
+

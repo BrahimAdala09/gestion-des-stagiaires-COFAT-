@@ -1,0 +1,22 @@
+.error-message {
+    color: red;
+    margin-top: 10px;
+}
+.register-container {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.register-container form {
+    display: flex;
+    flex-direction: column;
+}
+
+.register-container input, .register-container button {
+    margin: 10px 0;
+}
+
+.register-container p {
+    color: red;
+    margin-top: 10px;
+}
